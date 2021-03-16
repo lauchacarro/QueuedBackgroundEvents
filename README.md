@@ -1,4 +1,4 @@
-# WorkerServiceEvents
+# QueuedBackgroundEvents
 
 En este repositorio encontraras una simple implementación de una cola de tareas que se ejecutaran en segundo plano con un BackgroundService.
 
