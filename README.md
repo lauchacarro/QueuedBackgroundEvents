@@ -10,5 +10,8 @@ Cuando el BackgroundService desencola un evento se busca el handler para ese eve
 
 Esta implementación es muy útil para ejecutar tareas de larga duración y que no se espere una respuesta de esta.
 
+Me ayude bastante con la siguiente [documentación](https://docs.microsoft.com/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-5.0&tabs=visual-studio#queued-background-tasks)
+ 
+
 ## TODO:
  - Agregar logging
