@@ -1,6 +1,6 @@
 # QueuedBackgroundEvents
 
-En este repositorio encontraras una simple implementación de una cola de tareas que se ejecutaran en segundo plano con un BackgroundService.
+En este repositorio encontraras una simple WebApi con una implementación de una cola de tareas que se ejecutaran en segundo plano en un BackgroundService.
 
 En la api, durante el hilo de alguna solicitud HTTP, se agrega el evento en la cola.
 
